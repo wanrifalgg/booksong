@@ -1,5 +1,13 @@
 [
   {
+    "id": 280,
+    "number": "280",
+    "title": "HAMULIAON (III)",
+    "category": "Ordinarium",
+    "nada": "do = d 2/4",
+    "lyrics": "(P) Hamuliaon ma di Debata na ginjang\n(AB) Jala damema di tano on di angka jolma nahina lomonhon ni roha Na\n(A) Hami mamuji Ho\n(B) Hami pasangaphon Ho\n(A) Hami marsomba tu Ho\n(B) Hami pamulia hon Ho\n(AB) Mandok mauliate do hami tu Ho, ala balga ni hamuliaon Mu\n(A) Ale Tuhan Debata Raja na di surgo i, De bata Ama na so marparbolatan\n(B) Ale Tuhan Jesus Kristus, ale Tuhan Anak na sasada i\n(AB) Ale Tuhan Debata, Anak birubiru Anak ni Debata Ama\n(A) Ho na mambuat dosa ni portibion\n(B) Asi rohaM di hami\n(A) Ho na mambuat dosa ni portibi on\n(B) tangihon ma pangidoannami\n(AB) Ho na hundul di siamun ni Debata Ama asi rohaM di hami\n(A) Ai holan Ho do nabadia\n(B) Holan Ho do Tuhan\n(A) Ai holan Ho do na tumimbul, Tuhan Jesus Kristus\n(AB) Na rap dohot Tondi Porbadia di bagasan hamuliaon ni Debata, \namen, amen"
+  },
+  {
     "id": 375,
     "number": "375",
     "title": "AI HOLAN TU HO DO",
@@ -350,14 +358,6 @@
     "category": "Ordinarium",
     "nada": "do = f 2/4",
     "lyrics": "Nabadia, nabadia, nabadia do\nTuhan Debata Sigomgom hasiangan on\nGok hamulia onMudo, angka langit dohot tanoon,\nhosannama na di ginjang\nPinasupasu mana ro di bagasan goar ni Tuhani,\nhosannama na di ginjang"
-  },
-  {
-    "id": 280,
-    "number": "280",
-    "title": "HAMULIAON (III)",
-    "category": "Ordinarium",
-    "nada": "do = d 2/4",
-    "lyrics": "P Hamuliaon ma di Debata na ginjang\nAB Jala damema di tano on di angka jolma nahina lomonhon ni roha Na\nA Hami mamuji Ho\nB Hami pasangaphon Ho\nA Hami marsomba tu Ho\nB Hami pamulia hon Ho\nAB Mandok mauliate do hami tu Ho, ala balga ni hamuliaon Mu\nA Ale Tuhan Debata Raja na di surgo i, De bata Ama na so marparbolatan\nB Ale Tuhan Jesus Kristus, ale Tuhan Anak na sasada i\nAB Ale Tuhan Debata, Anak birubiru Anak ni Debata Ama\nA Ho na mambuat dosa ni portibion\nB Asi rohaM di hami\nA Ho na mambuat dosa ni portibi on\nB tangihon ma pangidoannami\nAB Ho na hundul di siamun ni Debata Ama asi rohaM di hami\nA Ai holan Ho do nabadia\nB Holan Ho do Tuhan\nA Ai holan Ho do na tumimbul, Tuhan Jesus Kristus\nAB Na rap dohot Tondi Porbadia di bagasan hamuliaon ni Debata, \namen, amen"
   },
   {
     "id": 279,
