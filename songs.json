@@ -1,5 +1,29 @@
 [
   {
+    "id": 441,
+    "number": "441",
+    "title": "SAI DUNGO HAHAANGGINGHU",
+    "category": "Natal",
+    "nada": "do = g 2/4",
+    "lyrics": "1\nSai dungo haha angginghu rap hita tu bara i\nNunga tubu Jesus Kristus Sipalua jolma i\n2\nBintang na marribu ribu manondangi tano on\nAi partogi do nasida tu Panondang bolon i\n3\nBoan pahan pahananmu, beta ma tu bara i\nLaho mamereng Birubiru Jesus Sipangolu i\n4\nBeta borhat ma nang hita laho manomba Jesus i\nNa paimaima hita na di panggagatan i\n5\nDongan jolma saluhutna sai burju parangemi\nAi di borngin na badia tuat Sipalua i\n6\nJesus Kristus Debatanghu gabe jolma songon ahu\nAsa dipabangkit ahu anak ni AmaNa i\n(Refr)\nPardisurgo mangendei Jesus poso poso i\nNang parmahan humalaput laho mamereng Jesus i"
+  },
+  {
+    "id": 442,
+    "number": "442",
+    "title": "MARPESTA NUAENG",
+    "category": "Natal",
+    "nada": "do= g 4/4",
+    "lyrics": "1\nMarpestanuang nasahalakhristen\nhuhut rap marhobas laho tu Betlehem\nLahomamereng Jesus Sipalua\n2\nSaibereng tubara aidisi Tuhanta\nmarpogos Ibanana ala dosami\nLehon hamuma holong tu Ibana\n3\nRap borhat hamuna o angka parmanan \ntinggalhon hamuma nang pinahani\nJesus Tuhanta masai jinalahan\n4\nO Jesus Parholong Hodo Nasunburju\nmarende do ahu pasangap goarMi\nO Tuhan Jesus Hodo pujionhu\n(Refr)\nSai ro hamu mar somba, pahatop ma mar somba,\nmarsinggang ho pasangap Tuhan i"
+  },
+  {
+    "id": 444,
+    "number": "444",
+    "title": "GLORIA IN EXCELSIS DEO",
+    "category": "Natal",
+    "nada": "do = f 4/4",
+    "lyrics": "(Refr)\nGlo.........ria\nin excelsis Deo\nGlo.........ria\nin excelsis Deo\n1\nTuat ho suru suruan borngini tuladangi\nLaho mamujimuji Tuhan raphon dolok tombaki\n2\nManariur sinondangna nang endena pe uli\nMarlasroha do nasida ai naunggok do tingkii\n3\nPardisurgo marlasroha mangendei ari i\nSangapma di Debatanta, dame madi jolma i\n4\nPamerengna pe gok holong asa berengma tusi\nTungtabo tu simalolong uli ni rupaNai"
+  },
+  {
     "id": 446,
     "number": "446",
     "title": "MARINGKAT DO PARMAHAN I",
@@ -16,36 +40,12 @@
     "lyrics": "1\nMansai sonang, mansai torang di naro Tuhantai\nPardisurgo diborgini ro mamuji Tuhantai\nJesus Tuhanta naung ro, Jesus Tuhanta naung ro\n2\nMansai sonang, mansai torang isedo parjoloro\nPintorro do parmahani dung dibege baritai\nDohot mahita tusi, dohot mahita tusi\n3\nMansai sonang, mansai torang berengma tubarai\nSiansurgo ro Jesusi paluahon tondintai\nTobus ma ahu, o Tuhan, tobus ma ahu, o Tuhan\n4\nMansai sonang, mansai torang ro do nang dakdanaki\nTaihuthon ma laho tusi pasangaphon Tuhantai\nJanghon ma ahu, o Tuhan, janghon ma ahu, o Tuhan"
   },
   {
-    "id": 444,
-    "number": "444",
-    "title": "GLORIA IN EXCELSIS DEO",
-    "category": "Natal",
-    "nada": "do = f 4/4",
-    "lyrics": "(Ref)\nGlo.........ria\nin excelsis Deo\nGlo.........ria\nin excelsis Deo\n1\nTuattosu rusuruan borngini tuladangi\nLahomamujimuji Tuhan raphon dolok tombaki\n2\nManariur sinondangna nang endena pe uli\nMarlasroha do nasida ai naunggok do tingkii\n3\nPardisurgo marlasroha mangendei arii\nSangapma di Debatanta, dame madi jolmai\n4\nPamerengna pe gok holong asa berengma tusi\nTungtabotu simalolong uli ni rupaNai"
-  },
-  {
     "id": 443,
     "number": "443",
     "title": "LAS DO ROHANAMI",
     "category": "Natal",
     "nada": "do = a 4/4",
     "lyrics": "1\nLas do rohanami Jesus Tuhanhi,\nai ro Ho sian ginjang daona i\nHoras ma di Ho o Jesus sian surgo i,\natas tano on ndang tarida Ho dope Kyrieleis\n2\nChriste Kyrieleison taendehon ma,\nmardongan las ni roha huhut hinsa\nTubu Jesus i di borngin na badia i,\nna so habubuhan Maria Ina i Kyrieleis\n3\nAi didok suruan tu parmahan i\nLao ma hamu tu Jesus di bara i\nLaos ida hamu ma posoposo na disi,\ntubu do di Bethlehem Sipalua i Kyrieleis\n4\nSian habinsaran angka raja i\nro manghormati Jesus Tuhanta i\nManombahon sere, mirhe nang daupa i,\npasangaphon Jesus Tuhanta Raja i Kyrieleis"
-  },
-  {
-    "id": 442,
-    "number": "442",
-    "title": "MARPESTA NUAENG",
-    "category": "Natal",
-    "nada": "do= g 4/4",
-    "lyrics": "1\nMarpestanuang nasahalakhristen huhut rap marhobas laho tu Betlehem\nLahomamereng Jesus Sipalua\n2\nSaibereng tubara aidisi Tuhantamarpogos Ibanana aladosami\nLehonhamumaholongtu Ibana\n3\nRap borhat hamuna o angka parmanan tinggalhon hamuma nang pinahani\nJesus Tuhanta masai jinalahan\n4\nO Jesus Parholong Hodo Nasunburju marende do ahu pasangapgoarMi\nO Tuhan Jesus Hodo pujionhu\nRefr\nSai rohamumar somba, pahatop mamar somba,\nmarsinggang hopasangap Tuhan i"
-  },
-  {
-    "id": 441,
-    "number": "441",
-    "title": "SAI DUNGO HAHAANGGINGHU",
-    "category": "Natal",
-    "nada": "do = g 2/4",
-    "lyrics": "1\nSai dungo hahaangginghu rap hita tu bara i\nNunga tubu Jesus Kristus Sipalua jolma i\n2\nBintang na marriburibu manondangi tano on\nAi partogi do nasida tu Panondang bolon i\n3\nBoan pahanpahananmu, beta ma tu bara i\nLaho mamereng Birubiru Jesus Sipangolu i\n4\nBeta borhat ma nang hita laho manomba Jesus i\nNa paimaima hita na di panggagatan i\n5\nDongan jolma saluhutna sai burju parangemi\nAi di borngin na badia tuat Sipalua i\n6\nJesus Kristus Debatanghu gabe jolma songon ahu\nAsa dipabangkit ahu anak ni AmaNa i\nRefr\nPardisurgo mangendei Jesusposoposo i\nNang parmahan humalaput laho mamereng Jesus i"
   },
   {
     "id": 426,
@@ -61,7 +61,7 @@
     "title": "PADIRGAK SIMANJUJUNGMI",
     "category": "Adven",
     "nada": "do = d 4/4",
-    "lyrics": "(12)\nPadirgak simanjujungmi, paminar nang bohim,\ntagam ma ho di Raja i, naeng ro tu rohami\n1\nAi ise ulaning Raja i Ibana Tuhan i\nai Ulubalang na gogo, na marmulia i\n2\nAi ise do Raja na ro i Ibana Tuhan i\nRaja hamuliaon i, Jahowa Zebaot"
+    "lyrics": "1'2\nPadirgak simanjujungmi, paminar nang bohim,\ntagam ma ho di Raja i, naeng ro tu rohami\n1\nAi ise ulaning Raja i Ibana Tuhan i\nai Ulubalang na gogo, na marmulia i\n2\nAi ise do Raja na ro i Ibana Tuhan i\nRaja hamuliaon i, Jahowa Zebaot"
   },
   {
     "id": 424,
